@@ -1,0 +1,15 @@
+<!--pages/exclse.wxml-->
+<view class='text'>
+  <text class='app-fz48'>{{title}}\n</text>
+
+  <text class='app-fz48'>{{text}}\n\n</text>
+
+</view>
+<view class="button">
+    
+
+  <button type='primary' bindtap='startExam'>开始</button>
+    
+</view>
+
+

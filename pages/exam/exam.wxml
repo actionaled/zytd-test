@@ -1,0 +1,18 @@
+<!--pages/exam/exam.wxml-->
+
+<view class='v_question'>
+<text>{{num}}.{{question}}\n\n</text>
+<text>{{item}}\n</text>
+
+</view>
+<view class='v_answer'>
+  <text class='app-fz28'>答案：\n</text>
+  <text class='app-fz48'>{{answer}}\n\n</text>
+</view>
+<view class ='v_ans_btn'>
+
+<button size='mini' class = 't_btn_mini_w' bindtap='cleckbtn'>A</button>
+<button size='mini' class = 't_btn_mini_w'>B</button>
+<button size='mini' class = 't_btn_mini_w'>C</button>
+<button size='mini' class = 't_btn_mini_w'>D</button>
+</view>

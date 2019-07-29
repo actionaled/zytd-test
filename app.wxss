@@ -1,0 +1,26 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+  
+
+  
+} 
+.app-fz16 {font-size: 16rpx;}
+.app-fz18 {font-size: 18rpx;}
+.app-fz20 {font-size: 20rpx;}
+.app-fz22 {font-size: 22rpx;}
+.app-fz24 {font-size: 24rpx;}
+.app-fz26 {font-size: 26rpx;}
+.app-fz28 {font-size: 28rpx;}
+.app-fz30 {font-size: 30rpx;}
+.app-fz32 {font-size: 32rpx;}
+.app-fz36 {font-size: 36rpx;}
+.app-fz40 {font-size: 40rpx;}
+.app-fz48 {font-size: 48rpx;}
+
