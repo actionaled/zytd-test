@@ -22,7 +22,7 @@
 # git pull --rebase origin master
 
 # 克隆仓库到本地
-3 git clone  git@github.com:actionaled/zytd-test.git
+# #git clone  git@github.com:actionaled/zytd-test.git
 
 # 放弃本地改动，更新至git分支
 # git reset --hard origin/master
