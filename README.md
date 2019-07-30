@@ -26,3 +26,8 @@
 
 # 放弃本地改动，更新至git分支
 # git reset --hard origin/master
+
+#创建密钥
+# git config --global user.email " "
+# git config --global user.name " "
+# ssh-keygen -t rsa -C "12@34.com"
